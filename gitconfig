@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = maximilien.philips@gmail.com
-	name = Max Philips New
+	email = zsh git_setup.sh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles
